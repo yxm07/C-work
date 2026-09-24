@@ -3,6 +3,7 @@
 using namespace std;
 
 class TriangleItem {
+
 private:
     int m_sideA;
     int m_sideB;
