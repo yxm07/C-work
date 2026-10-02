@@ -8,10 +8,10 @@ using namespace std;
 class TriangleItem {
 private:
     int m_id;           // 题目编号
-    int m_sideA;        // 边长A
-    int m_sideB;        // 边长B
-    int m_sideC;        // 边长C
-    int m_userAnswer;   // 用户输入的答案
+    int m_sideA;        // 三角形边长A
+    int m_sideB;        // 三角形边长B
+    int m_sideC;        // 三角形边长C
+    int m_userAnswer;   // 用户答案
     int m_correctAnswer;// 正确答案
     int m_score;        // 分数
 
